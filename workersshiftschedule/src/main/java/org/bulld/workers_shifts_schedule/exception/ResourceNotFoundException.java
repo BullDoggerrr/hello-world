@@ -1,4 +1,4 @@
-package org.bulld.workers_shifts_schedule;
+package org.bulld.workers_shifts_schedule.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;

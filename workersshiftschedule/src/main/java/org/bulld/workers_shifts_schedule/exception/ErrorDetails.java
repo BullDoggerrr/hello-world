@@ -1,4 +1,4 @@
-package org.bulld.workers_shifts_schedule;
+package org.bulld.workers_shifts_schedule.exception;
 
 import java.util.Date;
 

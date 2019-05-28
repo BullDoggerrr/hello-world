@@ -1,5 +1,8 @@
-package org.bulld.workers_shifts_schedule;
+package org.bulld.workers_shifts_schedule.controller;
 
+import org.bulld.workers_shifts_schedule.model.EmployeePosition;
+import org.bulld.workers_shifts_schedule.repository.EmployeePositionRepository;
+import org.bulld.workers_shifts_schedule.exception.ResourceNotFoundException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
